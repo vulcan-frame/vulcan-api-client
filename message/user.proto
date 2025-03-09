@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package client.message;
+package message;
 
 import "google/api/annotations.proto";
 import "message/hero.proto";

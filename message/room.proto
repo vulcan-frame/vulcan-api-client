@@ -1,9 +1,9 @@
 syntax = "proto3";
 
-package client.message;
+package message;
 
 import "google/api/annotations.proto";
-import "api/client/message/user_basic.proto";
+import "message/user_basic.proto";
 
 option go_package = "api/client/message;climsg";
 

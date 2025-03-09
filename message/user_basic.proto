@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package client.message;
+package message;
 
 option go_package = "api/client/message;climsg";
 
